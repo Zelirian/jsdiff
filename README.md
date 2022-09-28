@@ -1,4 +1,5 @@
-# jsdiff
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ # jsdiff
 
 [![Build Status](https://secure.travis-ci.org/kpdecker/jsdiff.png)](http://travis-ci.org/kpdecker/jsdiff)
 
